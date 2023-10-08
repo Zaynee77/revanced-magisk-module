@@ -1,3 +1,4 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 excluded-patches = "'Swipe controls' 'Old video quality menu' 'Enable debugging' 'Comments' 'Hide email address' 'Hide seekbar' 'Hide crowdfunding box' 'Hide info cards' 'Player flyout menu' 'Hide captions button' 'Hide autoplay button' 'Hide video action buttons' 'Hide cast button' 'Wide searchbar' 'Theme' 'Custom branding'"
+
