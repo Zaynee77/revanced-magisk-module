@@ -16,6 +16,7 @@ included-patches = "'MaterialYou' 'Premium heading'"
 excluded-patches = "'Alternative thumbnails' 'Custom branding icon Revancify Blue' 'Custom branding name YouTube' 'Enable old quality layout' 'Enable wide search bar' 'Hide account menu' 'Hide autoplay button' 'Hide button container' 'Hide captions button' 'Hide cast button' 'Hide channel avatar section' 'Hide collapse button' 'Hide comment component' 'Hide crowdfunding box' 'Hide description components' 'Hide floating microphone' 'Hide fullscreen panels' 'Hide handle' 'Hide info cards' 'Hide previous next button' 'Hide seekbar' 'Hide time stamp' 'Hide toolbar button' 'Hide tooltip content' 'Swipe controls' 'Theme'"
 
 [Music]
+enabled = true
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
