@@ -17,7 +17,7 @@ excluded-patches = "'Alternative thumbnails' 'Custom branding icon Revancify Blu
 
 [Music]
 enabled = true
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 integrations-source = "inotia00/revanced-integrations"
