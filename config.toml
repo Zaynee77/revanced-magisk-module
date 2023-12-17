@@ -20,7 +20,6 @@ excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube
 build-mode = "both"
 app-name = "YouTube-Music"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Enable old style library shelf' 'Enable old style miniplayer' 'Hide account menu' 'Hide button shelf' 'Hide cast button' 'Hide category bar' 'Hide emoji picker' 'Hide handle' 'Hide playlist card' 'Hide radio button' 'Hide tooltip content'"
-included-patches = ""
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
 module-prop-name = "ytm-rvx"
