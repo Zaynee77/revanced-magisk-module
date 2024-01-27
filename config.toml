@@ -16,17 +16,26 @@ rv-brand = "inotia00 ReVanced"
 included-patches = "'MaterialYou' 'Premium heading' 'Shorts outline button'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube' 'Enable old quality layout' 'Enable wide search bar' 'Hide autoplay button' 'Hide captions button' 'Hide cast button' 'Hide channel avatar section' 'Hide collapse button' 'Hide comment component' 'Hide crowdfunding box' 'Hide description components' 'Hide end screen cards' 'Hide end screen overlay' 'Hide floating microphone' 'Hide info cards' 'Hide search term thumbnail' 'Hide toolbar button' 'Hide tooltip content' 'Swipe controls' 'Theme'"
 
+#[Music]
+#build-mode = "both"
+#app-name = "YouTube-Music"
+#excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Enable old style library shelf' 'Enable old style miniplayer' 'Hide account menu' 'Hide button shelf' 'Hide cast button' 'Hide category bar' 'Hide emoji picker' 'Hide handle' 'Hide playlist card' 'Hide radio button' 'Hide tooltip content'"
+#version = "auto"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
+#module-prop-name = "ytm-rvx"
+#apkmirror-arch = "both"
+#patches-source = "inotia00/revanced-patches"
+#integrations-source = "inotia00/revanced-integrations"
+#cli-source = "inotia00/revanced-cli"
+
 [Music]
-build-mode = "both"
 app-name = "YouTube-Music"
-excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Enable old style library shelf' 'Enable old style miniplayer' 'Hide account menu' 'Hide button shelf' 'Hide cast button' 'Hide category bar' 'Hide emoji picker' 'Hide handle' 'Hide playlist card' 'Hide radio button' 'Hide tooltip content'"
-version = "auto"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
-module-prop-name = "ytm-rvx"
-apkmirror-arch = "both"
+apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
+integrations-source = "inotia00/revanced-integrations"
+rv-brand = "inotia00 ReVanced"
+excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Hide cast button'"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
