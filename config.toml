@@ -35,7 +35,10 @@ patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "inotia00 ReVanced"
+module-prop-name = "ytm-rvx"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music' 'Hide cast button'"
+version = "auto"
+arch = "both"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
