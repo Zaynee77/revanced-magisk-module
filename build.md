@@ -1,3 +1,5 @@
+Music (arm-v7a): 6.33.52  
+Music (arm64-v8a): 6.33.52  
 YouTube: 19.02.39  
 Twitch: 16.9.1  
 
