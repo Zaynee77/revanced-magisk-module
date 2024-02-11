@@ -42,6 +42,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 
 [YouTube-Advanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+cli-source = "inotia00/revanced-cli"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/revanced-integrations"
 rv-brand = "YT-Advanced ReVanced"
@@ -50,6 +51,7 @@ excluded-patches = "'Custom branding heading' 'Custom branding icon YouTube' 'Cu
 
 [Music-Advanced]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+cli-source = "inotia00/revanced-cli"
 patches-source = "YT-Advanced/ReX-patches"
 integrations-source = "YT-Advanced/revanced-integrations"
 rv-brand = "YT-Advanced ReVanced"
