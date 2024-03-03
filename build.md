@@ -1,4 +1,5 @@
 Music-Advanced (arm64-v8a): 6.41.58  
+Music-Advanced (arm-v7a): 6.41.58  
 YouTube-Advanced: 19.06.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
