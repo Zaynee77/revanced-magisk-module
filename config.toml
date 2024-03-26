@@ -58,3 +58,9 @@ rv-brand = "YT-Advanced ReVanced"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
 arch = "both"
 version = "auto"
+
+[Twitter]
+build-mode = "apk"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
+included-patches = "'Hide ads' 'Unlock downloads'"
+exclusive-patches = true
