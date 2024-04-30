@@ -73,7 +73,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Wide searchbar' 'Swipe controls'"
+excluded-patches = "'Wide searchbar' 'Swipe controls' 'Theme'"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
