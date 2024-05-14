@@ -88,7 +88,7 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "inotia00 ReVanced"
 build-mode = "both"
-arch = "both"
+# arch = "both"
 
 [YouTube-Inotia00]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
@@ -97,4 +97,3 @@ integrations-source = "inotia00/revanced-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "inotia00 ReVanced"
 excluded-patches = "'Announcements' 'Theme' 'Wide searchbar' 'Swipe controls'"
-patches-source = "inotia00/revanced-patches"
